@@ -25,23 +25,11 @@
 ![Autofirmado para admin](./Screenshots/image14.png)
 ![Configuración permisos certificados](./Screenshots/image15.png)
 6. Configuración de Nginx (copiar archivos, definir zonas de rate limiting)
-![Copiado archivos de Nginx](./Screenshots/image16.png)
-![Definición zonas rate limiting](./Screenshots/image17.png)
 7. Habilitación de sitios y recarga de Nginx
-![Habilitación sitios](./Screenshots/image18.png)
-![Verificación y recarga Nginx](./Screenshots/image19.png)
 8. Configuración del archivo hosts
-![Configuración archivo hosts](./Screenshots/image20.png)
 
 ## Pruebas manuales
 
-Algunas de las capturas solicitadas en este apartado, por ejemplo la de configuración de red, ya están en el apartado anterior, por lo que no veo necesario volver a repetirlas aquí.
-![Pruebas](./Screenshots/image.png)
-
 ## Pruebas automáticas
 
-![Ejecución y resultado del script](./Screenshots/image.png)
-
 ## Problemas encontrados y soluciones
-
-La práctica aún está sin terminar, debido a que me quedó la máquina virtual en clase. Lo terminaré el jueves o viernes y añadiré los apartados que faltan en este readme.
